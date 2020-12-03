@@ -1,0 +1,47 @@
+{{ partial "header.html" . }}
+<body
+  lang="{{ .Site.LanguageCode }}"
+  class="sans-serif w-90 w-60-ns center center-ns mv2 mv5-ns"
+  link="#7f7f7f" vlink="#7f7f7f" alink="#bfbfbf"
+>
+  <span class="b">/ </span>
+  <a
+    href="{{ .Site.BaseURL  }}"
+    class="b bw1 bb pb1 no-underline black"
+    >{{ .Site.Title  }}</a
+  >
+  <span class="b"> / </span>
+  <a href="/enquetes_poetiques" class="b bb bw1 pb1 no-underline black">enquêtes poétiques</a>
+  <section id="main" class="mt5">
+    <div>
+      <ul id="list" class="pl0">
+        <!-- prettier-ignore -->
+        {{ range .Data.Pages.ByDate.Reverse }}
+        <li class="list pl0 lh-copy">
+          <a
+          href="{{ .Permalink}}"
+            class="f3 b dib no-underline black"
+            >
+
+            &nbsp;&nbsp;&nbsp;&nbsp;{{ .Title }}
+
+            </a>
+          <span
+            class="f6 gray db dib-ns"
+            >{{ .Date.Format "2006" }}</span>
+        </li>
+        <!-- prettier-ignore -->
+        {{ end }}
+      </ul>
+    </div>
+  </section>
+
+  {{ partial "footer.html" . }}
+  </body>
+  <body link="#4e4e4e" vlink="#4e4e4e" alink="#4e4e4e" />
+  <style>
+          a {
+          text-decoration: none;
+          }
+  </style>
+</html>

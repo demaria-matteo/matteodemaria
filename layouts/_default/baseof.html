@@ -1,0 +1,15 @@
+<!DOCTYPE html>
+<html>
+  {{ partial "head.html" . }}
+  <body>
+    {{ partial "header.html" . }}
+    <div id="content">{{- block "main" . }}{{ -end }}</div>
+    {{ partial "footer.html" . }}
+  </body>
+    <body link="#4e4e4e" vlink="#4e4e4e" alink="#4e4e4e" />
+    <style>
+            a {
+            text-decoration: none;
+            }
+    </style>
+</html>

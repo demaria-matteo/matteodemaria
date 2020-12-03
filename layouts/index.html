@@ -1,0 +1,62 @@
+<!DOCTYPE html>
+<html
+  class=""
+  lang="{{ .Site.LanguageCode }}"
+  prefix="og: http://ogp.me/ns# fb: http://ogp.me/ns/fb#"
+>
+  <head>
+    <meta charset="utf-8" />
+
+    {{ partial "meta.html" . }}
+
+    <title>{{ .Site.Title }}</title>
+    <link rel="canonical" href="{{ .Permalink }}" />
+{{ $sitetitle := .Site.Title }}
+{{ with .OutputFormats.Get "RSS" }}
+    <link
+      href="{{ .RelPermalink }}"
+      rel="alternate"
+      type="application/rss+xml"
+      title="{{ $sitetitle }}"
+    />
+{{ end }}
+    {{ partial "head.html" . }}
+
+    {{ if .IsHome }}
+      <title>{{ .Site.Title }}</title>
+    {{ else }}
+      <title>{{ .Title }} – {{ .Site.Title }}</title>
+    {{ end }}
+
+    <meta content="{{ delimit .Keywords ", " }}" name="keywords">
+    <meta name="description" content="{{ $.Param "description" }}">
+    <meta content="{{ $isHomePage := eq .Title .Site.Title }}{{ .Site.Params.description }}{{ if eq $isHomePage false }} - {{ .Description }}{{ end }}" property="og:description">
+
+  </head>
+  <body
+    lang="{{ .Site.LanguageCode }}"
+    class="sans-serif w-90 w-60-ns center center-ns mv2 mv5-ns"
+  >
+    <section id="main">
+      <div>
+        <h1 id="title">
+          {{ .Site.Title }}
+        </h1>
+        <ul class="list pl0">
+          <!-- pages -->
+          <!-- prettier-ignore -->
+          {{ range .Site.Params.menu }}
+          <li class="b mv3">
+            <a class="f3 b pa1 black no-underline" href="{{ .url }}">&nbsp;&nbsp;&nbsp;&nbsp;{{ .name }}</a>
+          </li>
+          <!-- prettier-ignore -->
+          {{ end }}
+        </ul>
+      </div>
+    </section>
+
+    {{ partial "footer.html" . }}
+
+  </body>
+  <body link="#7f7f7f" vlink="#7f7f7f" alink="#bfbfbf" />
+</html>
