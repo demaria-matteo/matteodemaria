@@ -1,0 +1,54 @@
+baseURL = "https://www.matteodemaria.info/"
+title = "matteo demaria"
+googleAnalytics = "UA-XXXXXXXXX-X"
+description = "matteo demaria / enquêtes poétiques / jeune artiste / marseille / nantes / poésie / art conceptuel / mettre en discussion / le langage et ses usages / parler / critiquer / édition / livres d'artiste / photocopie"
+keywords = ["matteo", "demaria", "matteo demaria", "enquête", "enquêtes", "enquêtes poétiques", "poétique", "jeune", "artiste", "jeune artiste", "nantes", "marseille", "poésie", "art", "conceptuel", "contemporain", "art conceptuel", "art contemporain", "recherche", "langage", "discussion", "livres", "livres d'artiste", "édition", "photocopie"]
+enableRobotsTXT = true
+canonifyURLs = true
+
+[sitemap]
+  changefreq = "monthly"
+  filename = "sitemap.xml"
+  priority = 0.5
+
+[blackfriday]
+  hrefTargetBlank = true
+
+[taxonomies]
+  category = "categories"
+  series = "series"
+  tag = "tags"
+
+[params]
+description = "poésie / art conceptuel / mettre en discussion / le langage et ses usages / parler / critiquer / édition / livres d'artiste / photocopie"
+  # change this!
+
+[Permalinks]
+  post = "post/:slug"
+
+[[params.menu]]
+  name = "enquêtes poétiques"
+  url = "enquetes_poetiques/"
+
+[[params.menu]]
+  name = "en quête d'espaces"
+  url = "en_quete_d_espaces/"
+
+[[params.menu]]
+  name = "enquête d'identité"
+  url = "enquete_d_identite/"
+
+[[params.menu]]
+  name = "en quête de contact"
+  url = "en_quete_de_contact/"
+
+
+[privacy]
+  [privacy.googleAnalytics]
+    anonymizeIP = true
+    respectDoNotTrack = true
+    useSessionStorage = true
+  [privacy.twitter]
+    enableDNT = true
+  [privacy.youtube]
+    privacyEnhanced = true
