@@ -3,44 +3,44 @@ title = "enquête d'identité"
 description = "matteo demaria / qui est-ce ?"
 +++
 
-j’ai épluché le  robert mini+, 
-359 mots finissant en -isme
-“indéterminisme“ ; “truisme“… 
+j’ai épluché le  robert mini+ </br>
+359 mots finissant en -isme </br>
+“indéterminisme“ ; “truisme“… </br>
 
-j’ai essayé de répondre à la question
-“qu’est-ce que l’art ?”
-j’ai produit ma première édition numérotée 1 / ≈ ∞… 
+j’ai essayé de répondre à la question </br>
+“qu’est-ce que l’art ?” </br>
+j’ai produit ma première édition numérotée 1 / ≈ ∞… </br> 
 
-j’ai écrit : 
-“ce sont les personnes qui font les pièces
- qui ont besoin des pièces”
-“l’important ce n’est pas de produire une pièce ou de faire des billets,
- mais autre chose.
- n’importe quoi d’autre”… 
+j’ai écrit : </br> 
+“ce sont les personnes qui font les pièces </br>
+ qui ont besoin des pièces” </br>
+“l’important ce n’est pas de produire une pièce ou de faire des billets, </br>
+ mais autre chose. </br>
+ n’importe quoi d’autre”… </br> 
 
-j’ai fait une pièce à partir de livres que je n’avais pas lus
-que j’aurais aimé lire… 
+j’ai fait une pièce à partir de livres que je n’avais pas lus </br>
+que j’aurais aimé lire… </br> 
 
-j’ai fait une édition à partir de pièces que je n’avais pas vues, 
-que j’avais lues :
-“inviter au dialogue“
-“[mettre] en avant le partage d’idées ou d’informations
-relatives à la révolution totale
-personnelle et publique“… 
+j’ai fait une édition à partir de pièces que je n’avais pas vues, </br> 
+que j’avais lues : </br>
+“inviter au dialogue“ </br>
+“[mettre] en avant le partage d’idées ou d’informations </br>
+relatives à la révolution totale </br>
+personnelle et publique“… </br> 
 
-j’ai échangé des poèmes
-des échanges poiëtiques… 
+j’ai échangé des poèmes </br>
+des échanges poiëtiques… </br> 
 
-j’ai offert du café 
-en discutant de sculpture sociale… 
+j’ai offert du café </br> 
+en discutant de sculpture sociale… </br> 
 
-mais peut-être que tout cela n’a pas d’importance
+mais peut-être que tout cela n’a pas d’importance </br>
 
-peut-être que ce qui m’importe
-c’est d’écouter,
-c’est de mettre en discussion,
-c’est de faire des éditions,
-c’est que d’autres puissent entendre aussi…
+peut-être que ce qui m’importe </br>
+c’est d’écouter, </br>
+c’est de mettre en discussion, </br>
+c’est de faire des éditions, </br>
+c’est que d’autres puissent entendre aussi… </br>
   
 ***  
 ***  
