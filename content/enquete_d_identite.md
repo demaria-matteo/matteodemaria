@@ -3,18 +3,45 @@ title = "enquête d'identité"
 description = "matteo demaria / qui est-ce ?"
 +++
 
-en 2017, épluchant le  robert mini+, je suis tombé sur 359 mots finissant en -isme, dont gargarisme, indéterminisme et truisme.  
-ne comprenant pas les -ismes, j’ai essayé de répondre à la question 
-"qu’est-ce que l’art ?" par le calcul et je me suis retrouvé à produire ma première édition numérotée 1 / ≈ ∞.  
-j’ai fini par écrire : "ce sont les personnes qui font les pièces qui ont besoin des pièces", et "l’important ce n’est pas de produire une pièce ou de faire des billets, mais autre chose. n’importe quoi d’autre."  
-suite à cela, j’ai fait une pièce à partir de livres que je n’avais pas lus, mais que j’aurais aimé lire, et une édition à partir de pièces que je n’avais pas vues, mais que j’avais lues et aimais bien, afin d’inviter au dialogue et "[mettre] en avant le partage d’idées ou d’informations relatives à la révolution totale personnelle et publique".  
-entre autres, j’ai échangé des poèmes avec des échanges poiëtiques dans un marché de la banlieue de dakar, j’ai offert du café dans les rues de belsunce en discutant avec les passants de la possibilité de sculpter socialement le quartier.  
+j’ai épluché le  robert mini+, 
+359 mots finissant en -isme
+“indéterminisme“ ; “truisme“… 
 
-mais peut-être que tout cela n’a pas d’importance…  
+j’ai essayé de répondre à la question
+“qu’est-ce que l’art ?”
+j’ai produit ma première édition numérotée 1 / ≈ ∞… 
+
+j’ai écrit : 
+“ce sont les personnes qui font les pièces
+ qui ont besoin des pièces”
+“l’important ce n’est pas de produire une pièce ou de faire des billets,
+ mais autre chose.
+ n’importe quoi d’autre”… 
+
+j’ai fait une pièce à partir de livres que je n’avais pas lus
+que j’aurais aimé lire… 
+
+j’ai fait une édition à partir de pièces que je n’avais pas vues, 
+que j’avais lues :
+“inviter au dialogue“
+“[mettre] en avant le partage d’idées ou d’informations
+relatives à la révolution totale
+personnelle et publique“… 
+
+j’ai échangé des poèmes
+des échanges poiëtiques… 
+
+j’ai offert du café 
+en discutant de sculpture sociale… 
+
+mais peut-être que tout cela n’a pas d’importance
+
+peut-être que ce qui m’importe
+c’est d’écouter,
+c’est de mettre en discussion,
+c’est de faire des éditions,
+c’est que d’autres puissent entendre aussi…
   
-peut-être que ce qui m’importe c’est d’écouter,  
-de mettre en discussion,  
-de faire des éditions pour que d’autres puissent entendre aussi…  
 ***  
 ***  
 ***  
