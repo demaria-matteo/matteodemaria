@@ -41,6 +41,13 @@ c’est d’écouter, </br>
 c’est de mettre en discussion, </br>
 c’est de faire des éditions, </br>
 c’est que d’autres puissent entendre aussi… </br>
+
+*** 
+<sup>sur l’idée de “mise en discussion“ :
+
+<sup>une personne parle, un livre parle, un document parle, un contexte parle, je parle. on a tou·te·s quelque chose à dire, mais il faut quelqu’un pour écouter. il faut être au moins deux. il faut (se) mettre en relation (avec) ce·lles·ux qui parlent. les relations sont virtuelles, physiques, et basées sur un principe d’échange. l’un·e donne la parole, l’autre donne l’écoute. et inversement. l’écoute de l’un·e augmente la capacité de l’autre à parler ; la parole de l’autre augmente la capacité de l’un·e à parler. toutes les parties de la conversation grandissent. nous grandissons dans la conversation.</sup> </br>
+<sup>et la conversation ne s’arrête pas lorsque les parties se séparent. les mots et les pensées qu’ils portent r·ai·é·sonnent bien après celle-ci. seulement, comme la voix dans la grotte, les pensées – et les mots qui les portent – rebondissent, s’amenuisent, et finissent par devenir sourdes. pour qu’elles continuent à r·ai·é·sonner, il faut leur prêter un support. pour qu’elles puissent impressionner, il faut les écrire, les graver, les imprimer.</sup> </br>
+<sup>imprimer ne veut pas dire figer, encore moins pour l’éternité. imprimer veut dire rendre aux pensées et aux mots leur capacité de mouvement, sans en altérer l’essence, qui est de continuer à parler, à r·ai·é·sonner, jusqu’à la prochaine écoute.</sup> </br>
   
 ***  
 ***  
