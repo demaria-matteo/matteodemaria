@@ -53,34 +53,58 @@ c’est que d’autres puissent entendre aussi… </br>
 ***  
 ***  
   
-<sup>**prochainement**</sup>  
+<sup>**prochainement**</sup> 
 
-<sup><sup>*they call me the u.f.o.*,</sup></sup>  
-<sup><sup>exposition collective et lancement d'édition,</sup></sup>  
-<sup><sup>*glassbox*, paris (75),</sup></sup>  
-<sup><sup>décembre 2020</sup></sup>
+<sup><sup>_un fini (deuxième tentative)_,</sup></sup>  
+<sup><sup>édition-exposition,</sup></sup>  
+<sup><sup>aux éditions _hyphe_, saint-étienne (42),</sup></sup>  
+<sup><sup>impression prévue en avril 2021</sup></sup>  
+
+<sup><sup>_au travail (artistique)_,</sup></sup>  
+<sup><sup>publication au sein d'une édition collective,</sup></sup>  
+<sup><sup>auto-édité, nantes (44),</sup></sup>  
+<sup><sup>mai 2021</sup></sup> 
+
+<sup><sup>_mécaniques invisibles_,</sup></sup>  
+<sup><sup>exposition collective,</sup></sup>  
+<sup><sup>_la gâterie_, la roche-sur-yon (85),</sup></sup>  
+<sup><sup>juin-juillet 2021</sup></sup> 
 
 <sup><sup>*copie machine*,</sup></sup>  
 <sup><sup>exposition collective,</sup></sup>  
 <sup><sup>*belsunce projects*, marseille (13),</sup></sup>  
-<sup><sup>en fonction des conditions sanitaires</sup></sup>  
+<sup><sup>en fonction des conditions sanitaires</sup></sup>
 
-<sup><sup>résidence de deux semaines,</sup></sup>  
+<sup><sup>*nature et mathématiques*,</sup></sup>  
+<sup><sup>exposition collective, en collaboration avec faux</sup></sup>  
+<sup><sup>*couvent levat*, marseille (13),</sup></sup>  
+<sup><sup>en fonction des conditions sanitaires</sup></sup>
+
+<sup><sup>résidence avec samuel bosseur,</sup></sup>  
 <sup><sup>_atelier sumo_, lyon (69),</sup></sup>  
-<sup><sup>idem, probablement janvier 2021</sup></sup>  
+<sup><sup>en fonction des conditions sanitaires</sup></sup>
 
-<sup><sup>_un fini_,</sup></sup>  
-<sup><sup>livre sur le langage, sa détérritorialisation et les possibilités de son partage ; développement du travail mené dans le mémoire écrit à l'_esbanmsn_,</sup></sup>  
-<sup><sup>aux éditions _hyphe_, saint-étienne (42),</sup></sup>  
-<sup><sup>courant 2020</sup></sup>  
+<sup><sup>publication en revue,</sup></sup> 
+<sup><sup>_la zone_, marseille (13),</sup></sup>  
+<sup><sup>en fonction des conditions sanitaires</sup></sup>  
 
 <sup><sup>publication en revue,</sup></sup> 
 <sup><sup>_aequographe_, marseille (13),</sup></sup>  
-<sup><sup>date inconnue pour le moment</sup></sup>  
+<sup><sup>en fonction des conditions sanitaires</sup></sup>  
 
 <sup>**expositions collectives**</sup>
 
+<sup><sup>~~2021~~</sup></sup>
+
+<sup><sup>*présentations*,</sup></sup>    
+<sup><sup>en ligne, *le mat*, ancenis (44),</sup></sup>  
+<sup><sup>décembre 2020 - janvier 2021</sup></sup>
+
 <sup><sup>~~2020~~</sup></sup>
+
+<sup><sup>*they call me the u.f.o.*,</sup></sup>    
+<sup><sup>*glassbox*, paris (75),</sup></sup>  
+<sup><sup>novembre-décembre 2020</sup></sup>
 
 <sup><sup>_how to show time in monochrome_,</sup></sup>  
 <sup><sup>_diaspore space project_ à _coco-velten_, marseille (13),</sup></sup>  
