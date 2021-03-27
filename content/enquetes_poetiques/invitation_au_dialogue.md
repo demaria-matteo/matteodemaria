@@ -16,7 +16,7 @@ ce collage textuel reprend des statements d'artistes recueillis dans le livre [_
 
 en prennant à la lettre le "occurring now", je réactualise ces statements dans une forme littéraire entre le pamphlet et le manifeste.  
 
-une version plus longue de ce texte, est à paraître dans le livre _they call me the u.f.o._, édité par [_connection contacts_](https://www.instagram.com/connection_contacts/) courant décembre 2020, sous le nom de lettre ouverte à qui veut bien la lire.  
+une version plus longue de ce texte, est à parue dans le livre _they call me the u.f.o._, édité par [_connection contacts_](https://www.instagram.com/connection_contacts/) courant décembre 2020, sous le nom de [_lettre ouverte à qui veut bien la lire_](/pdfs/invitation_au_dialogue/lettre_ouverte.pdf).  
 
 d'éventuelles réponses pourraient faire l'objet d'une prochaine publication.  
 
