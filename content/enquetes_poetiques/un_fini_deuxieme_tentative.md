@@ -9,7 +9,7 @@ tags = ["matteo", "demaria", "matteo demaria", "enquête", "enquêtes", "enquêt
 
 ![un_fini-p45](/images/un_fini/un_fini.gif)
 
-<sup><sup>enveloppe C4 kraft ; bloc relié : 21 x 29,7cm, 207 pages ; enveloppe C5 kraft ; 14,8 x 21cm, 50 pages (libres) ; impressions : sérigraphie et risographie, papier : *canon black label* ; 60 copies</sup></sup>
+<sup><sup>enveloppe C4 kraft ; bloc relié : 21 x 29,7cm, 207 pages ; enveloppe C5 kraft ; 14,8 x 21cm, 50 pages (libres) ; impressions : sérigraphie et risographie, papier : *canon black label* ; 60 copies</sup></sup>   
 <sup><sup>l'édition a été nominée pour le _prix révélation livre d'artiste adagp_, dans le cadre du festival _multiple art days_ de 2021</sup></sup>
 
 <br/>

@@ -9,7 +9,7 @@ tags = ["matteo", "demaria", "matteo demaria", "enquête", "enquêtes", "enquêt
 
 [![éducation de l'in-artiste | annoté subjectivement |](/images/inartiste/inartiste_couverture.gif)](/pdfs/inartiste/inartiste_fr.pdf)
 
-<sup><sup>enveloppe kraft c4 ; a4, n/b, 90 pages, relieur archive métal, imprimé à l'occasion</sup></sup>
+<sup><sup>enveloppe kraft c4 ; a4, n/b, 90 pages, relieur archive métal, imprimé à l'occasion</sup></sup>   
 <sup><sup>une version en anglais est disponible [ici](pdfs/inartiste/unartist_en.pdf)</sup></sup>
 
 <br/>
