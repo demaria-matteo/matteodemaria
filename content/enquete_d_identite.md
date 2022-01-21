@@ -12,22 +12,19 @@ l’économie de moyens – pour la (re)production –, l’impression à l’oc
 
 </br>
 
-**1 :** <sup>*mettre en discussion* c’est rechercher l’émergence de voix critiques au travers de conversations, de confrontations et de rencontres – physiques ou littéraires.
-ces expérimentations polyphoniques se déclinent en différents supports éditoriaux, pour que ce qui est dit et fait, en fonction d’un moment précis, puisse dire et faire d’autres choses – en fonction d’autres moments.</sup>
-<sup>dans un souci de justesse de positionnement, matteo *mets en discussion* à partir du champ (lexical) qu’il connaît et dans lequel il s’inscrit : celui de l’art.</sup>
-<sup>d’une part, c’est que le « monde de l’art » n’est pas séparé du « monde-tout-court », et, d’autre part – conjointement –, « l’art contemporain est le site où se révèle comme nulle part ailleurs l’idéologie politique du capitalisme néolibéral ».</sup></br>
-<sup>(la citation est de alexander garcía düttmann, mais elle aurait pu être de hito steyerl, bojana kunst, « bifo », et bien d’autres…)</sup></br>
-**2 :** <sup>imprimer à l’occasion signifie qu’un tirage variable d’exemplaires non numérotés des éditions peut-être imprimé en fonction d’événements, et ce autant de fois que souhaité</sup></br>
+**1 :** <sub>*mettre en discussion* c’est rechercher l’émergence de voix critiques au travers de conversations, de confrontations et de rencontres – physiques ou littéraires.
+ces expérimentations polyphoniques se déclinent en différents supports éditoriaux, pour que ce qui est dit et fait, en fonction d’un moment précis, puisse dire et faire d’autres choses – en fonction d’autres moments.</sub>
+<sub>dans un souci de justesse de positionnement, matteo *mets en discussion* à partir du champ (lexical) qu’il connaît et dans lequel il s’inscrit : celui de l’art.</sub>
+<sub>d’une part, c’est que le « monde de l’art » n’est pas séparé du « monde-tout-court », et, d’autre part – conjointement –, « l’art contemporain est le site où se révèle comme nulle part ailleurs l’idéologie politique du capitalisme néolibéral ».</sub></br>
+<sub>(la citation est de alexander garcía düttmann, mais elle aurait pu être de hito steyerl, bojana kunst, « bifo », et bien d’autres…)</sub></br>
+**2 :** <sub>imprimer à l’occasion signifie qu’un tirage variable d’exemplaires non numérotés des éditions peut-être imprimé en fonction d’événements, et ce autant de fois que souhaité</sub></br>
 
 </br>
-</br>
-
 
 # si l’art était mort,
 ##### qu’il ne pouvait plus y avoir d’art…
 ###### ne passerions-nous pas au débat ?
 
-</br>
 </br>
 
 ***
