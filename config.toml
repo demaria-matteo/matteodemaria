@@ -31,17 +31,8 @@ description = "poésie / art conceptuel / mettre en discussion / le langage et s
   url = "enquetes_poetiques/"
 
 [[params.menu]]
-  name = "en quête d'espaces"
-  url = "en_quete_d_espaces/"
-
-[[params.menu]]
-  name = "enquête d'identité"
-  url = "enquete_d_identite/"
-
-[[params.menu]]
-  name = "en quête de contact"
-  url = "en_quete_de_contact/"
-
+  name = "en quête d'identité"
+  url = "en_quete_d_identite/"
 
 [privacy]
   [privacy.googleAnalytics]
