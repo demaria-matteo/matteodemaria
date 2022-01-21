@@ -8,6 +8,7 @@ tags = ["matteo", "demaria", "matteo demaria", "enquête", "enquêtes", "enquêt
 +++
 
 [![installation art&work&play&life&capitalism](/images/art&work&play&life&capitalism/installation_art&work&capitalism.gif)](/pdfs/art&work&play&life&capitalism/carteles_art&work&play&life&capitalism.pdf)
+
 <sup>[*fac-simile*](/pdfs/art&work&play&life&capitalism/fac-simile_art&work&play&life&capitalism.pdf), 162 pages, a4, impression laser n/b, relieur archive métal, imprimé à l’occasion,</sup>
 <sup>[*carte postale*](/pdfs/art&work&play&life&capitalism/postal_art&work&play&life&capitalism.pdf), a6, impression laser n/b, imprimée à l'occasion,</sup>
 <sup>[*ensemble de 39 affiches*](/pdfs/art&work&play&life&capitalism/carteles_art&work&play&life&capitalism.pdf), impression laser n/b, imprimé à l'occasion</sup>
