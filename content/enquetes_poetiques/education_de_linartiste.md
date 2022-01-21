@@ -9,8 +9,8 @@ tags = ["matteo", "demaria", "matteo demaria", "enquête", "enquêtes", "enquêt
 
 [![éducation de l'in-artiste | annoté subjectivement |](/images/inartiste/inartiste_couverture.gif)](/pdfs/inartiste/inartiste_fr.pdf)
 
-<sup><sup>enveloppe kraft c4 ; a4, n/b, 90 pages, relieur archive métal, imprimé à l'occasion</sup></sup>   <br/>
-<sup><sup>une version en anglais est disponible [ici](/pdfs/inartiste/unartist_en.pdf)</sup></sup>
+<sup>enveloppe kraft c4 ; a4, n/b, 90 pages, relieur archive métal, imprimé à l'occasion</sup>   
+<sup>une version en anglais est disponible [ici](pdfs/inartiste/unartist_en.pdf)</sup>
 
 <br/>
 
@@ -20,7 +20,7 @@ c'est l'une des questions posées par allan kaprow dans *éducation de l'in-arti
 
 à la fois attiré par cette utopie et critique par rapport à la place qu'elle fait à la technologie, j'ai décidé d'augmenter le texte "d'annotations subjectives" - citations, pensées et proverbes - pour chercher les prolongements de cet art qui pourrait devenir jeu (dans la vie) en 2021.
 
-cette envie d'éditer le texte - *editing* - s'accompagne d'une envie d'édition - *publishing*. c'est pourquoi, bien qu'il s'agisse d'une démarche *in-finie*, j'en propose une première version à compléter.
+cette envie d'éditer le texte - *editing* - s'accompagne d'une envie d'édition - *publishing*. c'est pourquoi, bien qu'il s'agisse d'une démarche *in-finie*, j'en propose une première version à compléter (éventuellement).
 
 [![éducation de l'in-artiste | annoté subjectivement |](/images/inartiste/inartiste2.gif)](/pdfs/inartiste/inartiste_fr.pdf)
 

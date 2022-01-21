@@ -9,7 +9,7 @@ tags = ["matteo", "demaria", "matteo demaria", "enquête", "enquêtes", "enquêt
 
 [![lisez ça](/images/lisez_ca_biblio/visual_biblio_cover.gif)](/pdfs/lisez_ca_biblio/lisez_ca_biblio_02_21.pdf)
 
-<sup><sup> .pdf, a4, n/b, 26 pages, imprimable à l'occasion</sup></sup>   
+<sup> .pdf, a4, n/b, 26 pages, imprimable à l'occasion</sup>
 
 <br/>
 
@@ -23,7 +23,7 @@ _lisons ça (et parlons d’autre chose)_ est un projet de plateforme/bibliothè
 
 par ces deux composantes *url* / *irl*, la bibliothèque sera le lieu du double échange de livres et de discussions, elle servira à créer des réseaux formels et informels, elle invitera à la création et la ré‑création. </br>
 
-[![lisons ça](/images/lisez_ca_biblio/visual_biblio_schema.gif)](/images/lisez_ca_biblio/visual_biblio_schema.gif) 
+[![lisons ça](/images/lisez_ca_biblio/visual_biblio_schema.gif)](/images/lisez_ca_biblio/visual_biblio_schema.gif)
 
 <br/>
 <hr>

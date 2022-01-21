@@ -9,8 +9,8 @@ tags = ["matteo", "demaria", "matteo demaria", "enquête", "enquêtes", "enquêt
 
 [![le même bateau](/images/le_meme_bateau/le_meme_bateau.gif)](/pdfs/le_meme_bateau/le_meme_bateau_pdf.pdf)
 
-<sup><sup> édition : 282 pages, a4, photocopie n/b, couverture souple, reliure archive métal, imprimé à l'occasion</sup></sup>  
-<sup><sup>réalisé avec le soutien des [_ateliers médicis_](https://ateliersmedicis.fr/) lors d'une résidence à [_coco-velten_]((https://cocovelten.org/))</sup></sup>  
+<sup> édition : 282 pages, a4, photocopie n/b, couverture souple, reliure archive métal, imprimé à l'occasion</sup>
+<sup>réalisé avec le soutien des [_ateliers médicis_](https://ateliersmedicis.fr/) lors d'une résidence à [_coco-velten_]((https://cocovelten.org/))</sup> 
 
 <br/>
 

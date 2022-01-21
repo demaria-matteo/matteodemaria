@@ -8,8 +8,8 @@ tags = ["matteo", "demaria", "matteo demaria", "enquête", "enquêtes", "enquêt
 +++
 [![tentetive](/images/tentative/tentative2.gif)](/pdfs/tentative/tentative.pdf)
 
-<sup><sup>a4, photocopie n/b, 1987 exemplaires signés et numéroté</sup></sup>  
-<sup><sup>réalisé pour l'exposition [_hypersensibles_](http://www.la-compagnie.org/portfolio/hypersensibles/) à [_la compagnie, lieu de création_](http://www.la-compagnie.org/), marseille (13001), fevrier-mars 2019</sup></sup>  
+<sup>a4, photocopie n/b, 1987 exemplaires signés et numéroté</sup>
+<sup>réalisé pour l'exposition [_hypersensibles_](http://www.la-compagnie.org/portfolio/hypersensibles/) à [_la compagnie, lieu de création_](http://www.la-compagnie.org/), marseille (13001), fevrier-mars 2019</sup>
 
 <br/>
 un texte sur les pièces qui essaye d’être une non-pièce, tenant sur une feuille a4 et dont les 1987 copies numérotées et signées venaient se poser sur un socle.  

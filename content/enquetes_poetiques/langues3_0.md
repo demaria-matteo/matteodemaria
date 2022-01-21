@@ -12,9 +12,9 @@ tags = ["matteo", "demaria", "matteo demaria", "enquête", "enquêtes", "enquêt
 [![langues3.0 3](/images/langues3_0/langues3_0_3.gif)](/pdfs/langues3_0/langues3_0.pdf)
 [![langues3.0 4](/images/langues3_0/langues3_0_4.gif)](/pdfs/langues3_0/langues3_0.pdf)
 
-<sup><sup>216 pages, a4, photocopie n/b, couverture souple, reliure archive métal, première édition de 20 exemplaires</sup></sup>  
-<sup><sup>réalisée suite à la résidence de recherche [_présences du futur_](https://beauxartsnantes.fr/campus-international-dakarrufisque) en avril et mai 2018</sup></sup>  
-<sup><sup>l'édition a été nominée pour le _prix révélation livre d'artiste adagp_, dans le cadre du festival _multiple art days_ de 2019</sup></sup>
+<sup>216 pages, a4, photocopie n/b, couverture souple, reliure archive métal, première édition de 20 exemplaires</sup>
+<sup>réalisée suite à la résidence de recherche [_présences du futur_](https://beauxartsnantes.fr/campus-international-dakarrufisque) en avril et mai 2018</sup>
+<sup>l'édition a été nominée pour le _prix révélation livre d'artiste adagp_, dans le cadre du festival _multiple art days_ de 2019</sup>
 
 ><< parler : parler clair : se faire facilement comprendre >>
 

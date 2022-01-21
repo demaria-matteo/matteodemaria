@@ -9,7 +9,7 @@ tags = ["matteo", "demaria", "matteo demaria", "enquête", "enquêtes", "enquêt
 
 [![pourquoi](/images/pourquoi/pourquoi_les_enfants.gif)](/pdfs/pourquoi/pourquoi_les_enfants.pdf)
 
-<sup><sup> édition : 49 pages, a4, photocopie n/b, reliure archive métal, imprimé à l'occasion</sup></sup>  
+<sup> édition : 49 pages, a4, photocopie n/b, reliure archive métal, imprimé à l'occasion</sup>
 
 <br/>
 

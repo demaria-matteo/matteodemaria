@@ -34,7 +34,7 @@ tags = ["matteo", "demaria", "matteo demaria", "enquête", "enquêtes", "enquêt
 [![y](/images/antisme/y.gif)](/pdfs/antisme/y.pdf)
 [![z](/images/antisme/z.gif)](/pdfs/antisme/z.pdf)
 
-<sup><sup>encyclopédie, 1664 pages, a4, photocopie n/b, reliure copte, livre unique</sup></sup>
+<sup>encyclopédie, 1664 pages, a4, photocopie n/b, reliure copte, livre unique</sup>
 
 <br/>
 

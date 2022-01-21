@@ -8,7 +8,7 @@ tags = ["matteo", "demaria", "matteo demaria", "enquête", "enquêtes", "enquêt
 +++
 [![some conceptual art statement](/images/the_rematerialization/the_rematerialization.gif)](/images/the_rematerialization/the_rematerialization_printer.gif)
 
-<sup><sup>installation - imprimante sur socle / page internet</sup></sup>
+<sup>installation - imprimante sur socle / page internet</sup>
 
 <br/>
 chaque minute une oeuvre textuelle issue de [*six years, the dematerialization of the art object*](https://monoskop.org/images/0/07/Lippard_Lucy_R_Six_Years_The_Dematerialization_of_the_Art_Object_from_1966_to_1972.pdf) (1997, lucy lippard) est imprimée - affichée.

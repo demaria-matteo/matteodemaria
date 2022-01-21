@@ -10,7 +10,7 @@ tags = ["matteo", "demaria", "matteo demaria", "enquête", "enquêtes", "enquêt
 
 [![72 livres](/images/72_livres/72_livres.gif)](/images/72_livres/72_livres.gif)
 
-<sup><sup>papier peint, 237.6x189 cm, photocopie n/b</sup></sup>  
+<sup>papier peint, 237.6x189 cm, photocopie n/b</sup> 
 
 <br/>
 

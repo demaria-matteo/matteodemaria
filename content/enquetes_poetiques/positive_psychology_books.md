@@ -10,7 +10,7 @@ tags = ["matteo", "demaria", "matteo demaria", "enquête", "enquêtes", "enquêt
 [![positive psychology books](/images/positive_psychology_books/positive_psychology_books_1.gif)](/pdfs/positive_psychology_book/positive_psychology_book.pdf)
 [![positive psychology books2](/images/positive_psychology_books/positive_psychology_books_2.gif)](/pdfs/positive_psychology_book/positive_psychology_book.pdf)
 
-<sup><sup>182 pages, a4, photocopie n/b, couverture souple, reliure spirale métal, première édition de 20 exemplaires<sup/><sup/>
+<sup>182 pages, a4, photocopie n/b, couverture souple, reliure spirale métal, première édition de 20 exemplaires<sup/>
 
 <br/>
 

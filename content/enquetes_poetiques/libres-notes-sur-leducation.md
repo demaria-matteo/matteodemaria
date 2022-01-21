@@ -11,9 +11,9 @@ tags = ["matteo", "demaria", "matteo demaria", "enquête", "enquêtes", "enquêt
 
 <br/>
 
-<sup><sup>série de 19 cartes postales auto-éditées, a6, photocopie noir et blanc sur papier blanc 250g
+<sup>série de 19 cartes postales auto-éditées, a6, photocopie noir et blanc sur papier blanc 250g
 <br>les cartes postales sont accompagnés du texte reproduit ci-dessous
-<br>réalisé dans le cadre de l'exposition ortum sum #1, à zut, 56130, octobre 2019 </sup></sup>
+<br>réalisé dans le cadre de l'exposition ortum sum #1, à zut, 56130, octobre 2019 </sup>
 
 
 "alexander sutherland neil (1883-1973) était psychanalyste. en 1921 il fonde summerhill, un projet d’école autogérée. en 1929 il commence à écrire un livre sur le fonctionnement de l’école. libres enfants de summerhill paraît en 1960.  

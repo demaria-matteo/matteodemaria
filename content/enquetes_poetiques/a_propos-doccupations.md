@@ -9,7 +9,7 @@ tags = ["matteo", "demaria", "matteo demaria", "enquête", "enquêtes", "enquêt
 
 [![à propos d'occupation(s)](/images/a_propos_doccupations/a_propos_doccupations.gif)](/pdfs/a_propos_doccupations/a_propos_doccupations.pdf)
 
-<sup><sup>a4, n/b, 34 pages, relieur archive métal, imprimé à l'occasion</sup></sup>   
+<sup>a4, n/b, 34 pages, relieur archive métal, imprimé à l'occasion</sup> 
 
 <br/>
 

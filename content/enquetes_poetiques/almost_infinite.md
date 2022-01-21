@@ -10,7 +10,7 @@ tags = ["matteo", "demaria", "matteo demaria", "enquête", "enquêtes", "enquêt
 ![almost infinite](/images/almost_infinite/almost_infinite.gif)
 ![almost infinite colophon](/images/almost_infinite/almost_infinite_colophon.gif)
 
-<sup><sup>ramette de papier imprimée et emballée, 500 feuilles, photocopie n/b, imprimable à l'occasion</sup></sup>
+<sup>ramette de papier imprimée et emballée, 500 feuilles, photocopie n/b, imprimable à l'occasion</sup>
 
 <br/>
 
