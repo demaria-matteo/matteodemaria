@@ -131,7 +131,7 @@ ces expérimentations polyphoniques se déclinent en différents supports édito
 <sup>~~2017~~</sup></br>
 
 <sup>_fin de party_,</sup></br>
-<sup>_esbanm_, nantes (44),</sup>
+<sup>_esbanm_, nantes (44),</sup></br>
 <sup>juin</sup></sup></br>  
 
 <sup>_ivres-sous-seine_,</sup></br>
@@ -147,7 +147,8 @@ ces expérimentations polyphoniques se déclinent en différents supports édito
 **résidences**
 
 <sup>résidence de recherche</sup></br>
-<sup>_centro de residencias artistícas, matadero_, madrid (es), dans le cadre des _résidences internationales_ de _dos mares_, marseille (13), avec la participation de _hablarenarte_, madrid (es), _institut français_, madrid (es), ainsi que _marcablanca.press_, madrid (es)</sup></br>
+<sup>_centro de residencias artistícas, matadero_, madrid (es), dans le cadre des _résidences internationales_ de _dos mares_, marseille (13),</sup></br>
+<sup>avec la participation de _hablarenarte_, madrid (es), _institut français_, madrid (es), ainsi que _marcablanca.press_, madrid (es)</sup></br>
 <sup>septembre-novembre 2021</sup></br>
 
 <sup>_festival transat_ des _ateliers médicis_,</sup></br>
