@@ -1,6 +1,6 @@
 +++
 date = 2019-01-01
-title = "tentative"
+title = "1ère tentative"
 weight = 3
 series = "enquetes poetiques"
 description = "matteo demaria / art conceptuel / pièce / non-pièce / texte / robert filliou / marcel duchamps / 1917 / 1987"
