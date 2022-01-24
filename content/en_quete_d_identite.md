@@ -51,7 +51,7 @@ ces expérimentations polyphoniques se déclinent en différents supports édito
 <sup>en fonction des conditions sanitaires</sup></br>
 
 <sup>publication en revue,</sup></br>
-<sup>_aequographe_, marseille (13),</sup> 
+<sup>_aequographe_, marseille (13),</sup></br> 
 <sup>en fonction des conditions sanitaires</sup></br>
 
 **expositions collectives**
@@ -66,7 +66,7 @@ ces expérimentations polyphoniques se déclinent en différents supports édito
 <sup>_multiple art days_, *fondation fiminco* romainville (93),</sup></br>
 <sup>septembre</sup></br>
 
-<sup>*mécaniques invisibles*,</sup>
+<sup>*mécaniques invisibles*,</sup></br>
 <sup>*la gâterie*, la roche-sur-yon (85),</sup></br>
 <sup>juin-juillet 2021</sup></br>
 
@@ -74,7 +74,7 @@ ces expérimentations polyphoniques se déclinent en différents supports édito
 <sup>*couvent levat*, marseille (13),</sup></br>
 <sup>juillet 2021</sup></br>
 
-<sup>*présentations*,</sup>
+<sup>*présentations*,</sup></br>
 <sup>en ligne, *le mat*, ancenis (44),</sup></br>
 <sup>décembre 2020 - janvier 2021</sup></br>
 
@@ -131,24 +131,24 @@ ces expérimentations polyphoniques se déclinent en différents supports édito
 <sup>~~2017~~</sup></br>
 
 <sup>_fin de party_,</sup></br>
-<sup>_esbanm_, nantes (44),</sup></br>  
+<sup>_esbanm_, nantes (44),</sup>
 <sup>juin</sup></sup></br>  
 
 <sup>_ivres-sous-seine_,</sup></br>
-<sup>_les réalisateurs_, nantes (44),</sup>
+<sup>_les réalisateurs_, nantes (44),</sup></br>
 <sup>mars</sup></br>
 
 <sup>~~2015~~</sup></br>
 
-<sup>_bestiarium_,</sup> 
+<sup>_bestiarium_,</sup></br>
 <sup>_apo33_, nantes (44),</sup></br>
 <sup>janvier</sup></br>
 
 **résidences**
 
 <sup>résidence de recherche</sup></br>
-<sup>_centro de residencias artistícas, matadero_, madrid (es), dans le cadre des _résidences internationales_ de _dos mares_, marseille (13), avec la participation de _hablarenarte_, madrid (es), _institut français_, madrid (es), ainsi que _marcablanca.press_, madrid (es)</sup>
-<sup>octobre-novembre 2021</sup></br>
+<sup>_centro de residencias artistícas, matadero_, madrid (es), dans le cadre des _résidences internationales_ de _dos mares_, marseille (13), avec la participation de _hablarenarte_, madrid (es), _institut français_, madrid (es), ainsi que _marcablanca.press_, madrid (es)</sup></br>
+<sup>septembre-novembre 2021</sup></br>
 
 <sup>_festival transat_ des _ateliers médicis_,</sup></br>
 <sup>_coco-velten_, marseille (13),</sup></br>
@@ -181,14 +181,27 @@ ces expérimentations polyphoniques se déclinent en différents supports édito
 
 **autres**
 
+<sup>_portes ouvertes_ du _centro de residencias artistícas, matadero_, madrid (es)</sup></br>
+<sup>présentation des recherches et discussion,</sup></br>
+<sup>novembre 2021</sup></br>
+
+<sup>_portes ouvertes des ateliers d'artistes de marseille_,</sup></br>
+<sup>présentation des recherches en cours et discussion</sup></br>
+<sup>_dos mares, vian_, marseille,</sup></br>
+<sup>septembre 2021</sup></br>
+
 <sup>_un fini (deuxième tentative)_,</sup></br>
-<sup>édition à exposer</sup></br>  
+<sup>édition à exposer</sup>
 <sup>éditions _hyphe_, saint-étienne (42),</sup></br>
 <sup>mai 2021</sup></br>
 
 <sup>_mécanique invisibles_,</sup></br>
 <sup>publication au sein d'une édition collective, en collaboration avec anais lapel</sup></br>
 <sup>auto-édité, nantes (44),</sup></br>  
+<sup>mai 2021</sup></br>
+
+<sup>artiste invité de l’émission de radio _droit dans vos bottes_,</sup></br>
+<sup>diffusée par radio grenouille, marseille,</sup></br>
 <sup>mai 2021</sup></br>
 
 <sup>invité de l'émission de radio _traits d'union_,</sup></br>
