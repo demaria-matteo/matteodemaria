@@ -32,176 +32,176 @@ ces expérimentations polyphoniques se déclinent en différents supports édito
 
 **prochainement**
 
-<sup>*copie machine x belsunce projects*,</sup></sup>  
-<sup>exposition collective,</sup></sup>  
-<sup>*salon trafic*, marseille (13),</sup>
-<sup>mai 2022</sup>
+<sup>*copie machine x belsunce projects*,</sup></br>
+<sup>exposition collective,</sup></br>
+<sup>*salon trafic*, marseille (13),</sup></br>
+<sup>mai 2022</sup></br>
 
-<sup>*nomadic island*,</sup></sup>  
-<sup>résidence de recherche,</sup></sup>  
-<sup>differdange (lu),</sup>
-<sup>juillet-août 2022</sup>
+<sup>*nomadic island*,</sup></br> 
+<sup>résidence de recherche,</sup></br> 
+<sup>differdange (lu),</sup></br>
+<sup>juillet-août 2022</sup></br>
 
-<sup>résidence avec samuel bosseur,</sup>
-<sup>_atelier sumo_, lyon (69),</sup>
-<sup>en fonction des conditions sanitaires</sup>
+<sup>résidence avec samuel bosseur,</sup></br>
+<sup>_atelier sumo_, lyon (69),</sup></br>
+<sup>en fonction des conditions sanitaires</sup></br>
 
-<sup>publication en revue,</sup>
-<sup>_la zone_, marseille (13),</sup>
-<sup>en fonction des conditions sanitaires</sup>
+<sup>publication en revue,</sup></br>
+<sup>_la zone_, marseille (13),</sup></br>
+<sup>en fonction des conditions sanitaires</sup></br>
 
-<sup>publication en revue,</sup>
-<sup>_aequographe_, marseille (13),</sup>  
-<sup>en fonction des conditions sanitaires</sup>
+<sup>publication en revue,</sup></br>
+<sup>_aequographe_, marseille (13),</sup></br>  
+<sup>en fonction des conditions sanitaires</sup></br>
 
 **expositions collectives**
 
-<sup>~~2021~~</sup>
+<sup>~~2021~~</sup></br>
 
-<sup>*graphomanies*,</sup>   
-<sup>*espace le carré*, lille (59),</sup>
-<sup>septembre-novembre 2021</sup>
+<sup>*graphomanies*,</sup></br>   
+<sup>*espace le carré*, lille (59),</sup></br>
+<sup>septembre-novembre 2021</sup></br>
 
-<sup>_séléction révelation livre d’artiste 2021 adagp_,</sup>
-<sup>_multiple art days_, *fondation fiminco* romainville (93),</sup>
-<sup>septembre</sup>
+<sup>_séléction révelation livre d’artiste 2021 adagp_,</sup></br>
+<sup>_multiple art days_, *fondation fiminco* romainville (93),</sup></br>
+<sup>septembre</sup></br>
 
-<sup>*mécaniques invisibles*,</sup>   
-<sup>*la gâterie*, la roche-sur-yon (85),</sup>
-<sup>juin-juillet 2021</sup>
+<sup>*mécaniques invisibles*,</sup></br>   
+<sup>*la gâterie*, la roche-sur-yon (85),</sup></br>
+<sup>juin-juillet 2021</sup></br>
 
-<sup>*nature et mathématiques*,</sup>   
-<sup>*couvent levat*, marseille (13),</sup>
-<sup>juillet 2021</sup>
+<sup>*nature et mathématiques*,</sup></br>   
+<sup>*couvent levat*, marseille (13),</sup></br>
+<sup>juillet 2021</sup></br>
 
-<sup>*présentations*,</sup>  
-<sup>en ligne, *le mat*, ancenis (44),</sup>
-<sup>décembre 2020 - janvier 2021</sup>
+<sup>*présentations*,</sup></br>  
+<sup>en ligne, *le mat*, ancenis (44),</sup></br>
+<sup>décembre 2020 - janvier 2021</sup></br>
 
-<sup>~~2020~~</sup>
+<sup>~~2020~~</sup></br>
 
-<sup>*they call me the u.f.o.*,</sup>   
-<sup>*glassbox*, paris (75),</sup>
-<sup>novembre-décembre 2020</sup>
+<sup>*they call me the u.f.o.*,</sup></br>   
+<sup>*glassbox*, paris (75),</sup></br>
+<sup>novembre-décembre 2020</sup></br>
 
-<sup>_how to show time in monochrome_,</sup>
-<sup>_diaspore space project_ à _coco-velten_, marseille (13),</sup>
-<sup>septembre</sup>
+<sup>_how to show time in monochrome_,</sup></br>
+<sup>_diaspore space project_ à _coco-velten_, marseille (13),</sup></br>
+<sup>septembre</sup></br>
 
-<sup>_la relève II - l'âge du faire_,</sup>
-<sup>_la compagnie, lieu de création_, marseille (13),</sup>
-<sup>janvier-fevrier</sup>
+<sup>_la relève II - l'âge du faire_,</sup></br>
+<sup>_la compagnie, lieu de création_, marseille (13),</sup></br>
+<sup>janvier-fevrier</sup></br>
 
-<sup>~~2019~~</sup>
+<sup>~~2019~~</sup></br>
 
-<sup>_ortum sum #1_,</sup>
-<sup>_zut, zone utopique temporaire_, la roche-bernard (56),</sup>
-<sup>octobre</sup>
+<sup>_ortum sum #1_,</sup></br>
+<sup>_zut, zone utopique temporaire_, la roche-bernard (56),</sup></br>
+<sup>octobre</sup></br>
 
-<sup>_sort du bois !_,</sup>
-<sup>_coco velten_, marseille (13),</sup>
-<sup>octobre</sup>  
+<sup>_sort du bois !_,</sup></br>
+<sup>_coco velten_, marseille (13),</sup></br>
+<sup>octobre</sup></br> 
 
-<sup>_séléction révelation livre d’artiste 2019 adagp_,</sup>
-<sup>_multiple art days_, paris (75),</sup>
-<sup>septembre</sup>
+<sup>_séléction révelation livre d’artiste 2019 adagp_,</sup></br>
+<sup>_multiple art days_, paris (75),</sup></br>
+<sup>septembre</sup></br>
 
-<sup>_go west_,</sup>
-<sup>_esbanmsn_, nantes (44),</sup>
-<sup>septembre</sup>
+<sup>_go west_,</sup></br>
+<sup>_esbanmsn_, nantes (44),</sup></br>
+<sup>septembre</sup></br>
 
-<sup>_le grand atelier - sur le feu_,</sup>
-<sup>_ateliers millefeuilles_, nantes (44),</sup>
-<sup>mai</sup>
+<sup>_le grand atelier - sur le feu_,</sup></br>
+<sup>_ateliers millefeuilles_, nantes (44),</sup></br>
+<sup>mai</sup></br>
 
-<sup>_hypersensibles_,</sup>
-<sup>_la compagnie, lieu de création_, marseille (13),</sup>
-<sup>mars-avril</sup>
+<sup>_hypersensibles_,</sup></br>
+<sup>_la compagnie, lieu de création_, marseille (13),</sup></br>
+<sup>mars-avril</sup></br>
 
-<sup>~~2018~~</sup>
+<sup>~~2018~~</sup></br>
 
-<sup>_ça va ? ça va !_,</sup>
-<sup>_open school gallery_, nantes (44),</sup>  
-<sup>novembre</sup>
+<sup>_ça va ? ça va !_,</sup></br>
+<sup>_open school gallery_, nantes (44),</sup></br> 
+<sup>novembre</sup></br>
 
-<sup>_djibi sarr_,</sup>
-<sup>pikine, dakar (sn),</sup>
-<sup>mai</sup>
+<sup>_djibi sarr_,</sup></br>
+<sup>pikine, dakar (sn),</sup></br>
+<sup>mai</sup></br>
 
-<sup>~~2017~~</sup>
+<sup>~~2017~~</sup></br>
 
-<sup>_fin de party_,</sup>
-<sup>_esbanm_, nantes (44),</sup>  
-<sup>juin</sup></sup>  
+<sup>_fin de party_,</sup></br>
+<sup>_esbanm_, nantes (44),</sup></br>  
+<sup>juin</sup></sup></br>  
 
-<sup>_ivres-sous-seine_,</sup>
-<sup>_les réalisateurs_, nantes (44),</sup>
-<sup>mars</sup>
+<sup>_ivres-sous-seine_,</sup></br>
+<sup>_les réalisateurs_, nantes (44),</sup></br>
+<sup>mars</sup></br>
 
-<sup>~~2015~~</sup>
+<sup>~~2015~~</sup></br>
 
-<sup>_bestiarium_,</sup>  
-<sup>_apo33_, nantes (44),</sup>
-<sup>janvier</sup>
+<sup>_bestiarium_,</sup></br>  
+<sup>_apo33_, nantes (44),</sup></br>
+<sup>janvier</sup></br>
 
 **résidences**
 
-<sup>résidence de recherche</sup>
-<sup>_centrode residencias artistícas, matadero_, madrid (es), dans le cadre des _résidences internationales_ de _dos mares_, marseille (13), avec la participation de _hablarenarte_, madrid (es), _institut français_, madrid (es), ainsi que _marcablanca.press_, madrid (es)</sup>  
-<sup>eoctobre-novembre 2021</sup>
+<sup>résidence de recherche</sup></br>
+<sup>_centrode residencias artistícas, matadero_, madrid (es), dans le cadre des _résidences internationales_ de _dos mares_, marseille (13), avec la participation de _hablarenarte_, madrid (es), _institut français_, madrid (es), ainsi que _marcablanca.press_, madrid (es)</sup></br>  
+<sup>octobre-novembre 2021</sup></br>
 
-<sup>_festival transat_ des _ateliers médicis_,</sup>
-<sup>_coco-velten_, marseille (13),</sup>
-<sup>juin-septembre 2020</sup>
+<sup>_festival transat_ des _ateliers médicis_,</sup></br>
+<sup>_coco-velten_, marseille (13),</sup></br>
+<sup>juin-septembre 2020</sup></br>
 
-<sup>_sors du bois !_,</sup>
-<sup>_coco-velten_, marseille (13),</sup>  
-<sup>septembre-octobre 2019</sup>  
+<sup>_sors du bois !_,</sup></br>
+<sup>_coco-velten_, marseille (13),</sup></br>
+<sup>septembre-octobre 2019</sup></br>  
 
-<sup>_présences du futur_,</sup>
-<sup>dakar (sn)</sup>
-<sup>avril-mai 2018</sup>  
+<sup>_présences du futur_,</sup></br>
+<sup>dakar (sn)</sup></br>
+<sup>avril-mai 2018</sup></br>  
 
 **expositions pas collectives**
 
-<sup>_centre d’enquêtes poétiques_ (dnsep),</sup>
-<sup>_esbanmsn_, nantes (44),</sup>
-<sup>juin 2019</sup>
+<sup>_centre d’enquêtes poétiques_ (dnsep),</sup></br>
+<sup>_esbanmsn_, nantes (44),</sup></br>
+<sup>juin 2019</sup></br>
 
 **co-curation d'expositions**
 
-<sup>_they call me the u.f.o._,</sup>
-<sup>exposition collective et lancement d'édition,</sup>
-<sup>_glassbox_, paris (75),</sup>
-<sup>décembre 2020</sup>
+<sup>_they call me the u.f.o._,</sup></br>
+<sup>exposition collective et lancement d'édition,</sup></br>
+<sup>_glassbox_, paris (75),</sup></br>
+<sup>décembre 2020</sup></br>
 
-<sup>_go west_,</sup>
-<sup>_esbanmsn_, nantes (44),</sup>
-<sup>septembre</sup>  
+<sup>_go west_,</sup></br>
+<sup>_esbanmsn_, nantes (44),</sup></br>
+<sup>septembre</sup></br> 
 
 **autres**
 
-<sup>_un fini (deuxième tentative)_,</sup>
-<sup>édition à exposer</sup>  
-<sup>éditions _hyphe_, saint-étienne (42),</sup>
-<sup>mai 2021</sup>
+<sup>_un fini (deuxième tentative)_,</sup></br>
+<sup>édition à exposer</sup></br>  
+<sup>éditions _hyphe_, saint-étienne (42),</sup></br>
+<sup>mai 2021</sup></br>
 
-<sup>_au travail (artistique)_,</sup>
-<sup>publication au sein d'une édition collective,</sup>
-<sup>auto-édité, nantes (44),</sup>  
-<sup>mai 2021</sup>
+<sup>_mécanique invisibles_,</sup></br>
+<sup>publication au sein d'une édition collective, en collaboration avec anais lapel</sup></br>
+<sup>auto-édité, nantes (44),</sup></br>  
+<sup>mai 2021</sup></br>
 
-<sup>invité de l'émission de radio _traits d'union_,</sup>
-<sup>organisée par _la zone_ et diffusée par _radio grenouille_,</sup>
-<sup>pour _manifesta13_,</sup>
-<sup>mars 2020</sup>
+<sup>invité de l'émission de radio _traits d'union_,</sup></br>
+<sup>organisée par _la zone_ et diffusée par _radio grenouille_,</sup></br>
+<sup>pour _manifesta13_,</sup></br>
+<sup>mars 2020</sup></br>
 
 **formation**
 
-<sup>_dnsep_ option art,</sup>
-<sup>_esbanmsn_, nantes (44),</sup>
-<sup>2019</sup>
+<sup>_dnsep_ option art,</sup></br>
+<sup>_esbanmsn_, nantes (44),</sup></br>
+<sup>2019</sup></br>
 
-<sup>_dnap_ option art avec mention pour la contextualisation du travail,</sup>
-<sup>_esbanm_, nantes (44),</sup>
-<sup>2017</sup>
+<sup>_dnap_ option art avec mention pour la contextualisation du travail,</sup></br>
+<sup>_esbanm_, nantes (44),</sup></br>
+<sup>2017</sup></br>
