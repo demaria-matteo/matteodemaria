@@ -51,14 +51,14 @@ ces expérimentations polyphoniques se déclinent en différents supports édito
 <sup>en fonction des conditions sanitaires</sup></br>
 
 <sup>publication en revue,</sup></br>
-<sup>_aequographe_, marseille (13),</sup></br>  
+<sup>_aequographe_, marseille (13),</sup> 
 <sup>en fonction des conditions sanitaires</sup></br>
 
 **expositions collectives**
 
 <sup>~~2021~~</sup></br>
 
-<sup>*graphomanies*,</sup></br>   
+<sup>*graphomanies*,</sup>   
 <sup>*espace le carré*, lille (59),</sup></br>
 <sup>septembre-novembre 2021</sup></br>
 
@@ -66,21 +66,21 @@ ces expérimentations polyphoniques se déclinent en différents supports édito
 <sup>_multiple art days_, *fondation fiminco* romainville (93),</sup></br>
 <sup>septembre</sup></br>
 
-<sup>*mécaniques invisibles*,</sup></br>   
+<sup>*mécaniques invisibles*,</sup>
 <sup>*la gâterie*, la roche-sur-yon (85),</sup></br>
 <sup>juin-juillet 2021</sup></br>
 
-<sup>*nature et mathématiques*,</sup></br>   
+<sup>*nature et mathématiques*,</sup>   
 <sup>*couvent levat*, marseille (13),</sup></br>
 <sup>juillet 2021</sup></br>
 
-<sup>*présentations*,</sup></br>  
+<sup>*présentations*,</sup>
 <sup>en ligne, *le mat*, ancenis (44),</sup></br>
 <sup>décembre 2020 - janvier 2021</sup></br>
 
 <sup>~~2020~~</sup></br>
 
-<sup>*they call me the u.f.o.*,</sup></br>   
+<sup>*they call me the u.f.o.*,</sup>  
 <sup>*glassbox*, paris (75),</sup></br>
 <sup>novembre-décembre 2020</sup></br>
 
@@ -135,19 +135,19 @@ ces expérimentations polyphoniques se déclinent en différents supports édito
 <sup>juin</sup></sup></br>  
 
 <sup>_ivres-sous-seine_,</sup></br>
-<sup>_les réalisateurs_, nantes (44),</sup></br>
+<sup>_les réalisateurs_, nantes (44),</sup>
 <sup>mars</sup></br>
 
 <sup>~~2015~~</sup></br>
 
-<sup>_bestiarium_,</sup></br>  
+<sup>_bestiarium_,</sup> 
 <sup>_apo33_, nantes (44),</sup></br>
 <sup>janvier</sup></br>
 
 **résidences**
 
 <sup>résidence de recherche</sup></br>
-<sup>_centrode residencias artistícas, matadero_, madrid (es), dans le cadre des _résidences internationales_ de _dos mares_, marseille (13), avec la participation de _hablarenarte_, madrid (es), _institut français_, madrid (es), ainsi que _marcablanca.press_, madrid (es)</sup></br>  
+<sup>_centro de residencias artistícas, matadero_, madrid (es), dans le cadre des _résidences internationales_ de _dos mares_, marseille (13), avec la participation de _hablarenarte_, madrid (es), _institut français_, madrid (es), ainsi que _marcablanca.press_, madrid (es)</sup>
 <sup>octobre-novembre 2021</sup></br>
 
 <sup>_festival transat_ des _ateliers médicis_,</sup></br>
