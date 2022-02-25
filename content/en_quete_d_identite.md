@@ -8,7 +8,7 @@ sa pratique artistique est plutôt *textuelle* que visuelle, *papetière* que pl
 
 elle se déploie à partir de l’envie de *mettre en discussion* – l’art (et son monde)<sup>1</sup></br>
 il lit, discute, réunit, écrit, réécrit, traduit, cite, assemble, met en page, édite et fait circuler.</br>
-l’économie de moyens – pour la (re)production –, l’impression à l’occasion<sup>2</sup>, les licences copyleft et la distribution à prix libre – pour diffusion – sont parmi les outils techniques qui aident à définir les formes de ses *oeuvres-documents*.</br>
+l’économie de moyens – pour la (re)production –, l’impression à l’occasion<sup>2</sup>, les licences copyleft et la distribution à prix libre – pour diffusion – sont parmi les outils techniques qui aident à définir les formes de ses *documents artistiques*.</br>
 </br>
 
 <sub>**1 :** *mettre en discussion* c’est rechercher l’émergence de voix critiques au travers de conversations, de confrontations et de rencontres – physiques ou littéraires.
