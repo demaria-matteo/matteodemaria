@@ -11,7 +11,7 @@ tags = ["matteo", "demaria", "matteo demaria", "enquête", "enquêtes", "enquêt
 
 <sup>[*fac-simile*](/pdfs/art&work&play&life&capitalism/fac-simile_art&work&play&life&capitalism.pdf), 162 pages, a4, impression laser n/b, relieur archive métal, imprimé à l’occasion</sup></br>
 <sup>[*carte postale*](/pdfs/art&work&play&life&capitalism/postal_art&work&play&life&capitalism.pdf), a6, impression laser n/b, imprimée à l'occasion</sup></br>
-<sup>[*ensemble de 39 affiches*](/pdfs/art&work&play&life&capitalism/carteles_art&work&play&life&capitalism.pdf), impression laser n/b, imprimé à l'occasion</sup></br>
+<sup>*ensemble de 39 affiches*, impression laser n/b, imprimé à l'occasion. [version espagnole](/pdfs/art&work&play&life&capitalism/carteles_art&work&play&life&capitalism.pdf) / [version française](/pdfs/art&work&play&life&capitalism/affiches_art&work&play&life&capitalism.pdf)</sup></br>
 <sup>réalisé dans le cadre des [*résidences internationales*](http://www.residencesinternationales.com/) de [*dos mares*](https://2mares.org/), marseille, en échange avec [*centro de residencias artistícas matadero*](https://www.mataderomadrid.org/programas/centro-de-residencias-artisticas), madrid, ainsi qu'avec [*hablarenarte*](http://www.hablarenarte.com/), madrid, et l'*institut français*, madrid, ainsi que [*marcablanca.press*](http://marcablanca.press/), madrid</sup>
 
 <br/>
@@ -25,6 +25,7 @@ les affiches pourront continuer d’exister indépendamment et être activées d
 
 ![fac-simile](/images/art&work&play&life&capitalism/fac-simile_art&work&capitalism.gif)
 ![postal](/images/art&work&play&life&capitalism/postal_art&work&capitalism.gif)
+![installation_pac](/images/art&work&play&life&capitalism/installation_pac_art&work&capitalism.gif)
 
 
 <br/>
