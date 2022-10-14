@@ -32,29 +32,19 @@ ces expérimentations polyphoniques se déclinent en différents supports édito
 
 **prochainement**
 
-<sup>*copie machine x belsunce projects*,</sup></br>
-<sup>exposition collective,</sup></br>
-<sup>*salon trafic*, marseille (13),</sup></br>
-<sup>mai 2022</sup></br>
-
-<sup>*nomadic island*,</sup></br> 
-<sup>résidence de recherche,</sup></br> 
-<sup>differdange (lu),</sup></br>
-<sup>juillet-août 2022</sup></br>
-
-<sup>résidence avec samuel bosseur,</sup></br>
-<sup>_atelier sumo_, lyon (69),</sup></br>
-<sup>en fonction des conditions sanitaires</sup></br>
-
-<sup>publication en revue,</sup></br>
-<sup>_la zone_, marseille (13),</sup></br>
-<sup>en fonction des conditions sanitaires</sup></br>
-
-<sup>publication en revue,</sup></br>
-<sup>_aequographe_, marseille (13),</sup></br> 
-<sup>en fonction des conditions sanitaires</sup></br>
+<sup>~~~</sup></br>
 
 **expositions collectives**
+
+<sup>~~2022~~</sup></br>
+
+<sup>*nomadic island*,</sup></br>
+<sup>differdange (lu),</sup></br>
+<sup>août 2022</sup></br>
+
+<sup>*copie machine x belsunce projects*,</sup></br>
+<sup>*salon trafic*, marseille (13),</sup></br>
+<sup>mai 2022</sup></br>
 
 <sup>~~2021~~</sup></br>
 
@@ -100,7 +90,7 @@ ces expérimentations polyphoniques se déclinent en différents supports édito
 
 <sup>_sort du bois !_,</sup></br>
 <sup>_coco velten_, marseille (13),</sup></br>
-<sup>octobre</sup></br> 
+<sup>octobre</sup></br>
 
 <sup>_séléction révelation livre d’artiste 2019 adagp_,</sup></br>
 <sup>_multiple art days_, paris (75),</sup></br>
@@ -121,7 +111,7 @@ ces expérimentations polyphoniques se déclinent en différents supports édito
 <sup>~~2018~~</sup></br>
 
 <sup>_ça va ? ça va !_,</sup></br>
-<sup>_open school gallery_, nantes (44),</sup></br> 
+<sup>_open school gallery_, nantes (44),</sup></br>
 <sup>novembre</sup></br>
 
 <sup>_djibi sarr_,</sup></br>
@@ -146,10 +136,20 @@ ces expérimentations polyphoniques se déclinent en différents supports édito
 
 **résidences**
 
+<sup>*nomadic island*,</sup></br>
+<sup>résidence de recherche,</sup></br>
+<sup>differdange (lu),</sup></br>
+<sup>juillet-août 2022</sup></br>
+
 <sup>résidence de recherche</sup></br>
 <sup>_centro de residencias artistícas, matadero_, madrid (es), dans le cadre des _résidences internationales_ de _dos mares_, marseille (13),</sup></br>
 <sup>avec la participation de _hablarenarte_, madrid (es), _institut français_, madrid (es), ainsi que _marcablanca.press_, madrid (es)</sup></br>
 <sup>septembre-novembre 2021</sup></br>
+
+<sup>*rouvrir les mondes*,</sup></br>
+<sup>résidence de recherche et transmission,</sup></br>
+<sup>*l'auberge marseillaise*, marseille (13),</sup></br>
+<sup>août 2021</sup></br>
 
 <sup>_festival transat_ des _ateliers médicis_,</sup></br>
 <sup>_coco-velten_, marseille (13),</sup></br>
@@ -178,7 +178,7 @@ ces expérimentations polyphoniques se déclinent en différents supports édito
 
 <sup>_go west_,</sup></br>
 <sup>_esbanmsn_, nantes (44),</sup></br>
-<sup>septembre</sup></br> 
+<sup>septembre</sup></br>
 
 **autres**
 
@@ -209,6 +209,16 @@ ces expérimentations polyphoniques se déclinent en différents supports édito
 <sup>organisée par _la zone_ et diffusée par _radio grenouille_,</sup></br>
 <sup>pour _manifesta13_,</sup></br>
 <sup>mars 2020</sup></br>
+
+**bourses**
+
+<sup>_aide individuelle à la création_</sup></br>
+<sup>_drac paca_, (13),</sup></br>
+<sup>août 2022</sup></br>
+
+<sup>_traversées_</sup></br>
+<sup>_cipac_, _fraap_, _réseau diagonal_, (fr),</sup></br>
+<sup>juin 2021</sup></br>
 
 **formation**
 
