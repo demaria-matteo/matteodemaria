@@ -9,8 +9,8 @@ tags = ["matteo", "demaria", "matteo demaria", "enquête", "enquêtes", "enquêt
 
 [![installation](/images/in_formation/in_formation_install.gif)](/pdfs/in_formation/in_formation_1.pdf)
 
-<sup>en cours / recherches : [ensemble de 14 affiches](/pdfs/in_formation/in_formation_1.pdf), a3, impression laser n/b, imprimé à l’occasion
-réalisé dans le cadre de la résidence de recherche à [metax*u*](https://www.metaxu.fr/), toulon</sup>
+<sup>en cours / recherches : [ensemble de 14 affiches](/pdfs/in_formation/in_formation_1.pdf), a3, impression laser n/b, imprimé à l’occasion ;
+réalisé dans le cadre de la résidence de recherche à [meta*xu*](https://www.metaxu.fr/), toulon</sup>
 
 <br/>
 

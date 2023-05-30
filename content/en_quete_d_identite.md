@@ -30,11 +30,15 @@ ces expérimentations polyphoniques se déclinent en différents supports édito
 
 </br>
 
-**prochainement**
-
 <sup>~~~</sup></br>
 
 **expositions collectives**
+
+<sup>~~2023~~</sup></br>
+
+<sup>*donner lieu*,</sup></br>
+<sup>*le garage*, labastide-villefranche (64),</sup></br>
+<sup>mai 2023</sup></br>
 
 <sup>~~2022~~</sup></br>
 
@@ -135,6 +139,11 @@ ces expérimentations polyphoniques se déclinent en différents supports édito
 <sup>janvier</sup></br>
 
 **résidences**
+
+<sup>*le garage*</sup></br>
+<sup>résidence de recherche et production</sup></br>
+<sup>*le garage*, labastide-villefranche (64),</sup></br>
+<sup>mai 2023</sup></br>
 
 <sup>*nomadic island*,</sup></br>
 <sup>résidence de recherche,</sup></br>
