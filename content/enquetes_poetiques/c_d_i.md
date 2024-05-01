@@ -10,7 +10,7 @@ tags = ["matteo", "demaria", "matteo demaria", "enquête", "enquêtes", "enquêt
 ![installation](/images/c_d_i/cdi_install.gif)
 
 <sup>[*molloy diogène durruti identifié par carlos*](/pdfs/c_d_i/doc_molloy_diogene_durruti.pdf) : photocopie n/b sur papier a4 recyclé 80g ; [*ce que je donne*](/pdfs/c_d_i/doc_ce_que_je_donne.pdf) : ensemble de 6 photocopies n/b sur papier a4 recyclé 80g ; [*ex libris / ex-persona*](/pdfs/c_d_i/doc_ex_libris_ex-persona.pdf) : ensemble de 6 photocopies n/b sur papier a4 recyclé 80g ; [*ceci n’est pas une pièce*](/pdfs/c_d_i/doc_ceci_n_est_pas.pdf)
-réalisées dans le cadre de la résidence *garage* de [*artistes&associés*](https://www.artistesetassocies.fr/), labastide-villefranche, grâce à des recherches menées suite à l'obtention de l'aide à la création individuelle 2022 délivrée par la drac des bouches-du-rhône</sup>
+réalisées dans le cadre de la résidence *garage* de [*artistes&associés*](https://www.artistesetassocies.fr/), labastide-villefranche, grâce à des recherches menées suite à l'obtention de l'*aide individuelle à la création 2022* délivrée par la *drac des bouches-du-rhône*</sup>
 
 <br/>
 
